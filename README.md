@@ -138,7 +138,8 @@ header {
 </section>
 
 <!-- Student Life Section -->
-<section id="student-life">
+<section id="student-life">![image](https://github.com/user-attachments/assets/e6809f63-70c0-452f-94a5-5951933a39c3)
+
    <div class="container">
       <h2>Student Life</h2>
       <p>Discover the vibrant student life at Spruce University, including clubs, organizations, and events.</p>
